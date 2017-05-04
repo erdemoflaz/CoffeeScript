@@ -1,4 +1,4 @@
-**CoffeeScript Language**
+**CoffeeScript Language | TR**
 ===================
 
 
